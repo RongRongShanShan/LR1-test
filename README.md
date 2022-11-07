@@ -6,5 +6,6 @@
 （1）S->BB
 （2）B->aB
 （3）B->b
+<br/>
 ![image](https://user-images.githubusercontent.com/83165884/200255766-3db08f7f-1c67-48a7-a0cd-8c46d8ebc0ff.png)
 
